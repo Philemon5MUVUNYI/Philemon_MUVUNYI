@@ -13,6 +13,8 @@ public class Main {
 
         System.out.print("Enter initial balance(tons): ");
         double initialBalance = scanner.nextDouble();
+        System.out.print("Enter BIJ: ");
+        double bij = scanner.next();
 
         int choice;
         do {
