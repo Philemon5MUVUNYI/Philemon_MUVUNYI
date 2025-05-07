@@ -17,6 +17,7 @@ public class Main {
 
         int choice;
         do {
+            System.out println("===WELCOME===");
             System.out.println("=== Site Construction System ===");
             System.out.println("1. Material Delivery.");
             System.out.println("2. Material Usage.");
