@@ -7,7 +7,7 @@ public class CostEstimation extends ConstructionMaterial{
 
     @Override
     public void receiveMaterial() {
-
+     //methodology for jespology
     }
 
     @Override
